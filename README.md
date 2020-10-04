@@ -1,3 +1,3 @@
 # BinarytreeC
 
-###preorder,postorder and inorder traversal
+## preorder,postorder and inorder traversal
